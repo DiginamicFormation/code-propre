@@ -1,12 +1,12 @@
 package ex1;
-
+/** Calcul */
 public class calcul {
-
-	public int get1(int a, int b){
-		return a+b;
-	}
-	
-	public int get2(int a, int b){
-		return a-b;
-	}
+    /** Addition */
+    public int addition(int a, int b){
+        return a+b;
+    }
+    /** Soustraction */
+    public int soustraction(int a, int b){
+        return a-b;
+    }
 }
