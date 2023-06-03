@@ -30,3 +30,21 @@ Les méthodes `ajouterMontant` et `debiterMontant` gèrent son évolution avec
 plus de contrôle.
 
 Autre détail : tabulation convertie en 4 espaces pour indenter.
+
+### Exercice 3
+
+« Je comprends que tu as un parc zoologique où tu accueilles toute sorte
+d’animaux.
+Du coup, je me serais attendu à croiser au moins une classe `Animal` en plus de
+la classe `Zoo`.
+Plus encore, j’aurais fait des sous-classes suivant l’arbre phylogénique des
+bêtes citées dans la classe exécutable `ZooApplication`.
+
+Après si ces bêtes ne sont qu’une source de donnée, on peut juste les
+rassembler sous forme d’un dictionnaire `HashMap<Integer, String[3]>` selon les
+attributs `types`, `noms` et `comportements`.
+La raison est que ça permet de mettre en avant la corrélation des attributs,
+mais aussi de distinguer chaque bête partageant les mêmes attributs.
+La ligne `0` peut être réservée comme en-tête d’un tableau futur.
+
+Après, je ne connais pas l’application exacte. »
