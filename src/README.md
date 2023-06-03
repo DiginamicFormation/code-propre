@@ -47,4 +47,8 @@ La raison est que ça permet de mettre en avant la corrélation des attributs,
 mais aussi de distinguer chaque bête partageant les mêmes attributs.
 La ligne `0` peut être réservée comme en-tête d’un tableau futur.
 
-Après, je ne connais pas l’application exacte. »
+Après, je ne connais pas l’application exacte.
+
+Je fais juste une petite correction en assignant tes attributs à des objets
+`ArrayList` vides et en renommant `types` en `typeAnimal`…
+Voilà, la méthode `afficherListeAnimaux` remarche. »
